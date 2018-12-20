@@ -7,7 +7,9 @@
 
 ## Use
 > builds/robot walk W5RW5RW2RW1R
-or 
+
+or
+
 > php robot walk W55555RW555555W444444W1  
 
 ## License use
